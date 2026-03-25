@@ -1,0 +1,74 @@
+#back {
+    background: linear-gradient(120deg, #444242 50.3%, #530404 10%) no-repeat fixed; /*cor e ajuste do fundo da tela principal (body)*/
+}
+
+.button-default{ /*BOTAO DA TABELA DE ENTRADA E SAIDA*/
+    border-radius: 10px;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.logo-box{
+    display: inline-block;
+    background-color: #720303;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.carousel{
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.3);
+}
+
+.carousel img{
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 12px;
+}
+
+.icon-detail{
+    width: 180px;
+    height: auto;
+    justify-content: top;
+    align-items: top;
+}
+
+.icon-detail-navbar{
+    width: 50px;
+    height: auto;
+    justify-content: top;
+    align-items: top;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.cliente-logo{
+    max-height: 60px;
+    opacity: 0.8;
+    transition: 0.3s;
+}
+
+.cliente-logo:hover{
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+.text {
+    text-shadow: 0 2px 5px rgba(0,0,0,0.5);
+}
+
+
+
+/*.carousel img{
+    height: 350px;
+    object-fit: cover;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 12px;
+}*/
+
