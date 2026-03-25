@@ -4,8 +4,8 @@
 This project is an simple institutional website developed for a real client, focused on presenting services and improving online presence.
 
 ## Technologies
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Features
 - Responsive design (mobile and desktop)
